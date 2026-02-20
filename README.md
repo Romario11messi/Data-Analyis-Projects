@@ -1,6 +1,6 @@
 # 📊 Sales Data Analysis & Data Cleaning Project
 
-## 🚀 Project Overview
+##  Project Overview
 
 This project demonstrates how to perform data cleaning and exploratory
 data analysis (EDA) using Python and Pandas.
@@ -10,7 +10,7 @@ categorical columns
 
 ------------------------------------------------------------------------
 
-## 🔍 Methods Used
+##  Methods Used
 
 ### 1️⃣ Detecting Missing Values
 
@@ -43,7 +43,7 @@ df['Region'] = df['Region'].replace(0, 'South').fillna('South')
 
 ------------------------------------------------------------------------
 
-## 🎯 Key Takeaways
+##  Key Takeaways
 
 -   Data cleaning is essential before analysis.
 -   Dropping data can lead to information loss.
@@ -52,7 +52,7 @@ df['Region'] = df['Region'].replace(0, 'South').fillna('South')
 
 ------------------------------------------------------------------------
 
-## 🛠 Tools Used
+## Tools Used
 
 -   Python
 -   Pandas
@@ -62,7 +62,7 @@ df['Region'] = df['Region'].replace(0, 'South').fillna('South')
 
 ## 📌 Author
 
-Edward
+Edward Seodi
 
 ------------------------------------------------------------------------
 
